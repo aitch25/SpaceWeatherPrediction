@@ -1,5 +1,6 @@
 ### SpaceWeatherPrediction
 - Team: Hugh's
+- Prize: 3rd prize (장려상 - Encouragement prize)
 - Rank: 5th place (among 105 competitors)
 
 ### Algorithm
