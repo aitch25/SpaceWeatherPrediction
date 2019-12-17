@@ -1,12 +1,13 @@
-# SpaceWeatherPrediction
-- 5th place answer among 105 competitors
+### SpaceWeatherPrediction
+- Team: Hugh's
+- Rank: 5th place (among 105 competitors)
 
-# Algorithm
+### Algorithm
 - GBDT ensemble
 
-# How to run
+### How to run
 - ./run.bat
 
-# More information
+### More information
 - General information: https://sapiensteam.com/make/play/whiteboard/feedMain.do
 - News reports: http://www.aitimes.com/news/articleView.html?idxno=119904
